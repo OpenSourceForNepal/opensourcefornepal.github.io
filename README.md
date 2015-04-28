@@ -21,11 +21,11 @@ Install middleman:
 
 Clone and bundle install
 
-    $ git clone git@github.com:nepalidevelopers/nepalidevelopers.github.io.git
-    $ cd nepalidevelopers.github.io
+    $ git clone git@github.com:opensourcefornepal/opensourcefornepal.github.io.git
+    $ cd opensourcefornepal.github.io
     $ bundle install
 
 Available commands:
 
     $ middleman               # Run the preview server at http://localhost:4567
-    $ middleman deploy        # Deploy to gh-pages (http://nepalidevelopers.github.io)
+    $ middleman deploy        # Deploy to gh-pages (http://opensourcefornepal.github.io)
