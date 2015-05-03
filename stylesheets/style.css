@@ -10,47 +10,48 @@
 
 /* line 11, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 p.subheader {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  color: #34495e; }
 
-/* line 15, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 16, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .on-top {
   top: 40%;
   position: absolute; }
 
-/* line 20, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 21, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .footer {
   background-color: #34495e;
   width: 100%;
   text-align: center;
   bottom: -30px; }
 
-/* line 28, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 29, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .message {
   padding: 10px; }
 
-/* line 33, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 34, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 ul.center {
   width: 100%;
   text-align: center; }
 
-/* line 38, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 39, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .center {
   vertical-align: middle; }
 
-/* line 42, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 43, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .dark-blue {
   background-color: #34495E; }
 
-/* line 46, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 47, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .dark-blue:hover {
   background-color: #2c3e50; }
 
-/* line 50, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 51, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .shadow {
   -webkit-box-shadow: 0px 0px 97px 0px black;
   -moz-box-shadow: 0px 0px 97px 0px black;
   box-shadow: 0px 0px 97px 0px black; }
 
-/* line 56, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
+/* line 57, /Users/Puru/Developer/OpenSouceNepal/opensourcenepal.github.io/source/stylesheets/style.css.scss */
 .footer-license {
   color: #95a5a6; }
