@@ -10,10 +10,11 @@
 
 p.subheader{
   margin-bottom: 30px;
+  color:#34495e;
 }
 
 .on-top {
-  top: 30%;
+  top: 40%;
   position: absolute;
 }
 
@@ -22,7 +23,7 @@ p.subheader{
   width: 100%;
   text-align: center;
   bottom: -30px;
-  position: fixed;
+  // position: fixed;
 }
 
 .message {
